@@ -1,0 +1,672 @@
+999
+FBX AutoCAD (*.DXF) exporter
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1008
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$TILEMODE
+ 70
+   1
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LTYPE
+ 70
+   1
+  0
+LTYPE
+  2
+CONTINUOUS
+ 70
+   64
+  3
+Solid line
+ 72
+   65
+ 73
+   0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+ 70
+   1
+  0
+LAYER
+  2
+watermelonSlice
+ 70
+   0
+ 62
+   250
+  6
+CONTINUOUS
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+POLYLINE
+  8
+watermelonSlice
+ 66
+   1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   64
+ 71
+   13
+ 72
+   22
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+99.999991
+ 20
+100.000017
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+30.901705
+ 20
+19.098306
+ 30
+50.000000
+ 70
+   192
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+-30.901694
+ 20
+19.098295
+ 30
+50.000000
+ 70
+   192
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+-80.901699
+ 20
+49.999986
+ 30
+30.901699
+ 70
+   192
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+-80.901699
+ 20
+49.999986
+ 30
+-30.901699
+ 70
+   192
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+30.901705
+ 20
+19.098306
+ 30
+-50.000000
+ 70
+   192
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+80.901699
+ 20
+50.000014
+ 30
+30.901699
+ 70
+   192
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+-100.000009
+ 20
+99.999983
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+52.573117
+ 20
+14.934928
+ 30
+-0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+-52.573105
+ 20
+14.934910
+ 30
+-0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+-30.901694
+ 20
+19.098295
+ 30
+-50.000000
+ 70
+   192
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+80.901699
+ 20
+50.000014
+ 30
+-30.901699
+ 70
+   192
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.000009
+ 20
+0.000000
+ 30
+-0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   10
+ 72
+   13
+ 73
+   11
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   13
+ 72
+   9
+ 73
+   6
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   6
+ 72
+   11
+ 73
+   13
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   9
+ 72
+   13
+ 73
+   2
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   9
+ 72
+   12
+ 73
+   6
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   13
+ 72
+   10
+ 73
+   3
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   3
+ 72
+   2
+ 73
+   13
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   3
+ 72
+   10
+ 73
+   4
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   9
+ 72
+   7
+ 73
+   12
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   4
+ 72
+   10
+ 73
+   5
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   1
+ 72
+   12
+ 73
+   7
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   5
+ 72
+   8
+ 73
+   4
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   9
+ 72
+   2
+ 73
+   7
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   10
+ 72
+   11
+ 73
+   5
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   12
+ 72
+   5
+ 73
+   11
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   8
+ 72
+   5
+ 73
+   12
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   7
+ 72
+   2
+ 73
+   3
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   1
+ 72
+   7
+ 73
+   4
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   12
+ 72
+   11
+ 73
+   6
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   8
+ 72
+   12
+ 73
+   1
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   7
+ 72
+   3
+ 73
+   4
+  0
+VERTEX
+  8
+watermelonSlice
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   1
+ 72
+   4
+ 73
+   8
+  0
+SEQEND
+  0
+ENDSEC
+  0
+EOF
